@@ -40,8 +40,9 @@ vi .env
 
 You are now ready to launch the NestJS application using the command below.
 
+```sh
 # Launch the development server with TSNode
-npm run start:dev
+npm run dev
 ```
 
 You can now head to `http://localhost:3000/api/docs` and see your API Swagger docs. 
