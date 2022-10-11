@@ -40,12 +40,8 @@ vi .env
 
 You are now ready to launch the NestJS application using the command below.
 
-```sh
-# Perform migrations in your database using TypeORM
-npm run migration:run
-
 # Launch the development server with TSNode
-npm run dev
+npm run start:dev
 ```
 
 You can now head to `http://localhost:3000/api/docs` and see your API Swagger docs. 
